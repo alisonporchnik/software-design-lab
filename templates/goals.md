@@ -1,5 +1,5 @@
 
-# $NAME's Course Goals
+# $Lisa's Course Goals
 
 ## Goal One
 
