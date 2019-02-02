@@ -1,4 +1,4 @@
-# $Lisa's Technical Journal
+# $NAME's Technical Journal
 
 ## Week Two (1/30 to 2/6)
 
