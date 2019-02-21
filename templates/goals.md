@@ -15,3 +15,4 @@ Goal Three
 Learn enough about Java and/or JavaScript to understand how it works and when it's useful.
 
 Benchmark: write a super simple app that uses JS
+
