@@ -12,7 +12,6 @@ Hour 6: tried to update journal and push via command line with no luck. Did ever
 
 * * *
 
-## Week Three (2/7 to 2/13)
 ##Week Three (2/7-2/13)
 
 #Hour 1-2 Reading abut plain text, working through first two exercises in LPtHW; ran into problems with exercise one (printing).
@@ -52,8 +51,8 @@ Hour 4 trying to update file on github via terminal, having trouble again!
 ## Week Four (2/13 to 2/20)
 
 
-Hour 1: This week's readings
+Hour 1: This week's readings..
 Hour 2: Did lessons 4 and 5 in LPtHW. I'd like to dive into the study drill in ex. 5 for converting number variables into metrics but that could be a rabbit hole that I don't have time for right now
-Hour 3: Updated journal and goals and pushing to Github
+Hour 3-4: Updated journal and goals and pushing to Github with many of the same issues as last week.
 
 Note: I got pretty sick on Thursday 2/14 and my mental focus is just returning today, on 2/19, so I wasn't able to practice as much as I'd wanted to this week.
