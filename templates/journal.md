@@ -66,3 +66,9 @@ Hour 3: Worked through lessons 6 and 7 in LPtHW
 hour 4: readings for this week
 Didn't practice enough
 
+##Week Six 2/27-3/6
+
+Hour 1-3 had a lot of trouble with Jekyll and directories and bundles, wouldn't serve. But after trying to solve via Stack Overflow and the Jekyll site uninstalling/installing I finally got it properly installed with the bundles and got a site up. I added a photo and will work with more html, css and liquid.
+hours 3-5 did the readings on ethics. Didn't get back to Jekyll
+##Week Seven 3/6-3/13
+Spent some time working on adding to and debugging the little program we did in class, which would not operate quite right.  Will work on another one of my own whether or not I figure out the problem there.
