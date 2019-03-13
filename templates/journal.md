@@ -70,5 +70,11 @@ Didn't practice enough
 
 Hour 1-3 had a lot of trouble with Jekyll and directories and bundles, wouldn't serve. But after trying to solve via Stack Overflow and the Jekyll site uninstalling/installing I finally got it properly installed with the bundles and got a site up. I added a photo and will work with more html, css and liquid.
 hours 3-5 did the readings on ethics. Didn't get back to Jekyll
+
 ##Week Seven 3/6-3/13
-Spent some time working on adding to and debugging the little program we did in class, which would not operate quite right.  Will work on another one of my own whether or not I figure out the problem there.
+Hour 1-3: Spent some time working on adding to and debugging the little program we did in class, which would not operate quite right.  Will work on another one of my own whether or not I figure out the problem there.
+I didn't figure it out. Spent more time comparing program to the one Patrick uploaded. Eventually I got it right. I want to put it on the Jekyll site but don't have time to figure that out right now. Maybe we need to go over that first?
+
+Hour 4: I went through this week's reading/exercises and studied the code and the exxplanation. I have a very general understanding of the differences between those three programming paradigms and can see how they do things differently, but I wouldn't know where to start in writing any of those scripts on my own. Also, I can't quite get the definitions/terms down. Code terminology is its own thing and I haven't assimilated it yet. That seems to be part of the problem. It's the equivalent (to me) of reading about Turkish in a version of English that uses a bunch of contemporary idiomatic French words. (I have retained only a high-school level of French from the 1980s.) I feel like if I understood the coding idiom better I would understand the explanations and the logic more clearly.
+
+I wish I'd had more time to practice this week. 
