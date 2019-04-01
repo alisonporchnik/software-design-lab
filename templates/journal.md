@@ -88,3 +88,25 @@ Tried to modify the cafe.py script with minimal success. wanted to make it retur
 
 Hour 4 Planned to spend more time with Zed but discovered that I'd worked through all of the free lessons in LPtHW.  Also, removing Anaconda and Python 3 didn't fix my left-hand Command key issue, which cropped up after installing some new software for my classes this fall (but not sure which software).
 
+##Week Eight
+Nothing. Absolutely nothing.
+
+##Week Nine
+Hour 1-2 Working on the Flask megatutorial. Ran into problems at end of ch. 1 - a warning that I could not run a development server in a production environment and the microblog app wouldn't run. 
+
+Felis-Felix:venv me$ flask run
+ * Serving Flask app "microblog.py"
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+Usage: flask run [OPTIONS]
+Error: Could not import "microblog".
+So it's not generating a local host address for the environment. Maybe this is because it's a designated virtual environment? I will try running it in the microblog directory instead just to see.
+
+Also, since the keyboard issue wasn't solved, I am reinstalling Anaconda with Python 3, since I need it to use the pirated copy of Learn Python the Hard Way. Nope - same problem. Hmmm.
+
+Hour 3: reviewing Python glossary (wasn't very helpful - I need something that explains what things are and do in lay terms) and then attempted to the install MSQL database to do the tutorial on W3Schools but I am having trouble and don't really know what I'm doing. I may try a different tutorial.
+
+Hour 4-5 worked more on trying to get the myql installation (per W3 Schools) to work but there are errors involving problems with caching passwords, or python even recognizing what mysql is when I try to import the connector. It's definitely installed - located in Anaconda's Python 3.7 folder - but Anaconda has SQLite too. If I search for MYSQL a window pops up and I can run it that way. I can't create a database on it for the tutorial though.
+Thoroughly frustrated, and spending so much time with no progress doesn't help me, I just get so deep in the weeds it's hard for me to see how things are structured and how they function. The only thing I'm really improving at is working in the command line. That's fine and good, but I really need to understand programming languages better.
