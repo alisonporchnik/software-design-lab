@@ -110,3 +110,6 @@ Hour 3: reviewing Python glossary (wasn't very helpful - I need something that e
 
 Hour 4-5 worked more on trying to get the myql installation (per W3 Schools) to work but there are errors involving problems with caching passwords, or python even recognizing what mysql is when I try to import the connector. It's definitely installed - located in Anaconda's Python 3.7 folder - but Anaconda has SQLite too. If I search for MYSQL a window pops up and I can run it that way. I can't create a database on it for the tutorial though.
 Thoroughly frustrated, and spending so much time with no progress doesn't help me, I just get so deep in the weeds it's hard for me to see how things are structured and how they function. The only thing I'm really improving at is working in the command line. That's fine and good, but I really need to understand programming languages better.
+
+##Week Ten
+Hours 1-2 researching potential platforms for the software project and communicating with group on Slack. Hopefully some SQLite lab practice Tuesday.
