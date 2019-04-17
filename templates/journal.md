@@ -113,3 +113,22 @@ Thoroughly frustrated, and spending so much time with no progress doesn't help m
 
 ##Week Ten
 Hours 1-2 researching potential platforms for the software project and communicating with group on Slack. Hopefully some SQLite lab practice Tuesday.
+
+##Week Eleven
+Hour 1-2: video conference with team members Rob and Antonius and further research on software platforms.
+
+Hour 3: Working on Flask Megatutorial with Pycharm IDE, which Rob recommended. I recreated the microblog files but still had trouble launching it. I tried again in bash, making sure to run venv, and still got this error:
+(venv) Felis-Felix:microblog me$ export FLASK_APP=microblog.py
+(venv) Felis-Felix:microblog me$ flask run
+ * Serving Flask app "microblog.py"
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+Usage: flask run [OPTIONS]
+
+Error: Could not import "microblog".  
+
+GAHHHHH!
+Hour 4-5 design consultation with Quinn; spent rest of time researching methods for easy sample map we can incorporate into the web app - a "what this might look like" extra.
+
